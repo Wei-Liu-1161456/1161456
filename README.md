@@ -7,9 +7,9 @@
 
 Based on preliminary data exploration (EDA) from `EDA(updated).ipynb` and `Personal_health_lifesyle.ipynb`, the chosen dataset contains a clear target column with two distinct values: 'healthy' and 'diseased'. This characteristic makes the dataset an ideal case for a supervised binary classification task.
 
-This project will therefore focus on applying the machine learning concepts and techniques covered in this course to address a clear objective: **predicting whether an individual is 'diseased' or 'healthy' based on their lifestyle features.**
+This project therefore focus on applying the machine learning concepts and techniques covered in this course to address a clear objective: **predicting whether an individual is 'diseased' or 'healthy' based on their lifestyle features.**
 
-To align with real-world medical priorities, **'diseased' will be treated as the positive class during training and evaluation**. The rationale is that the cost of a "False Negative" (failing to detect a 'diseased' patient) is significantly higher than the cost of a "False Positive" (incorrectly flagging a 'healthy' patient for a follow-up). This consideration will be central to the evaluation strategy.
+Concerned the real-world medical priorities, **'diseased' will be treated as the positive class during training and evaluation**. The rationale is that the cost of a "False Negative" (failing to detect a 'diseased' patient) is significantly higher than the cost of a "False Positive" (incorrectly flagging a 'healthy' patient for a follow-up). This consideration will be central to the evaluation strategy.
 
 ### Project Workflow
 
