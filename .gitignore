@@ -1,8 +1,8 @@
 .ipynb_checkpoints
 #*.csv
-*.txt
-*.html
-*.json
+# *.txt
+# *.html
+# *.json
 #/data/*
 *.png
 *.jpg
